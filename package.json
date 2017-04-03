@@ -1,0 +1,24 @@
+{
+  "name": "Hw-server-arithmetic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "calculator": "^0.1.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artinov/home-work-13-vickyantre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artinov/home-work-13-vickyantre/issues"
+  },
+  "homepage": "https://github.com/Artinov/home-work-13-vickyantre#readme"
+}
